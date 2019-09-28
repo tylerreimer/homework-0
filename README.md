@@ -1,2 +1,3 @@
 # homework-0
-For Productivity Class
+
+Code for the Data Sciecne Certification through Harvard Uninveristy and EdX.  Courses include Data Wrangling, Linear Regression and Productivity tools.
